@@ -3,7 +3,6 @@
 
 ## I'm a Full Stack Developer, Student in Computer Science!!
 
-- 🔭 I just 
 - 🌱 I’m currently learning JavaScript, React JS, NodeJS
 - 🥅 2021 Goals: Learn, practice by doing more projects, and having a basic knowledge of cybersecurity
 - ⚡ Fun fact: I love ride a bike when I don't know where I am going 🤣
